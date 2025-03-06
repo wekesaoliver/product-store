@@ -1,6 +1,7 @@
 # Product Store Project
 
 This project is a web application for managing a product store, built using the MERN stack (MongoDB, Express.js, React, and Node.js). The frontend utilizes React with Vite for fast development and Chakra UI for styling.
+![Product Store](image/screenshot.png)
 
 ## Features
 
